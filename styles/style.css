@@ -1,0 +1,13 @@
+*{
+    background-color: azure;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    text-align: center;
+}
+a{
+    color: brown;
+}
+.image{
+    width: 500px;
+}
